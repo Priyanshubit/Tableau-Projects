@@ -10,7 +10,7 @@ This repository contains Tableau workbook files demonstrating the fundamentals o
 - `(28may)book3.twb` – Advanced visualizations and mapping
 - `vgsales.csv` – Dataset used across all Tableau workbooks
 
-2. Tableau project
+2. Air Bnb Tableau Project
 
 ## 📊 Workbook Breakdown
 
