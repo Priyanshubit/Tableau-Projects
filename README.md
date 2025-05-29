@@ -4,10 +4,13 @@ This repository contains Tableau workbook files demonstrating the fundamentals o
 
 ## 📁 Files
 
+1. Tableau Basic:
 - `(28may)book1.twb` – Introductory visualizations
 - `(28may)book2.twb` – Dual combination chart for sales comparison
 - `(28may)book3.twb` – Advanced visualizations and mapping
 - `vgsales.csv` – Dataset used across all Tableau workbooks
+
+2. Tableau project
 
 ## 📊 Workbook Breakdown
 
