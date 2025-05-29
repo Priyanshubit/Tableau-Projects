@@ -11,6 +11,7 @@ This repository contains Tableau workbook files demonstrating the fundamentals o
 - `vgsales.csv` – Dataset used across all Tableau workbooks
 
 2. Air Bnb Tableau Project
+- This Tableau dashboard analyzes Airbnb listings in Seattle using visual KPIs
 
 ## 📊 Workbook Breakdown
 
